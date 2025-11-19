@@ -1,0 +1,27 @@
+[
+{
+  "username": "Venkat",
+  "password": "123",
+  "profile_pic":"/venkat.png"
+},
+{
+  "username": "ali",
+  "password": "123",
+    "profile_pic":"/ali.png"
+},
+{
+  "username": "ravi",
+  "password": "123",
+    "profile_pic":"/ravi.png"
+},
+{
+  "username": "ramana",
+  "password": "123",
+    "profile_pic":"/ramana.png"
+},
+{
+  "username": "virat",
+  "password": "123",
+    "profile_pic":"/virat.png"
+}
+]

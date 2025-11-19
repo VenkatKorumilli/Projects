@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "technology": "Python",
+    "question": "What is the output of print(type([])) in Python?",
+    "options": [
+      "<class 'list'>",
+      "<class 'dict'>",
+      "<class 'tuple'>",
+      "<class 'set'>"
+    ],
+    "answer": "<class 'list'>"
+  },
+  {
+    "id": 2,
+    "technology": "Python",
+    "question": "Which keyword is used for function declaration?",
+    "options": [
+      "function",
+      "fun",
+      "define",
+      "def"
+    ],
+    "answer": "def"
+  },
+  {
+    "id": 3,
+    "technology": "Python",
+    "question": "How do you start a comment in Python?",
+    "options": [
+      "//",
+      "<!--",
+      "#",
+      "%"
+    ],
+    "answer": "#"
+  },
+  {
+    "id": 4,
+    "technology": "Python",
+    "question": "Which method adds an element to a list?",
+    "options": [
+      "append()",
+      "add()",
+      "insert()",
+      "push()"
+    ],
+    "answer": "append()"
+  },
+  {
+    "id": 5,
+    "technology": "Python",
+    "question": "What does 'pip' stand for?",
+    "options": [
+      "Package Installer for Python",
+      "Python Interpreter Parser",
+      "Python Integrated Package",
+      "None of these"
+    ],
+    "answer": "Package Installer for Python"
+  },
+  {
+    "id": 6,
+    "technology": "Python",
+    "question": "How do you define a block of code in Python?",
+    "options": [
+      "Using braces {}",
+      "Using indentation",
+      "Using brackets []",
+      "Using parentheses ()"
+    ],
+    "answer": "Using indentation"
+  },
+  {
+    "id": 7,
+    "technology": "Python",
+    "question": "What is the correct file extension for Python files?",
+    "options": [
+      ".pyth",
+      ".pt",
+      ".py",
+      ".pyt"
+    ],
+    "answer": ".py"
+  },
+  {
+    "id": 8,
+    "technology": "Python",
+    "question": "Which collection is ordered and changeable?",
+    "options": [
+      "Tuple",
+      "Set",
+      "List",
+      "Dictionary"
+    ],
+    "answer": "List"
+  },
+  {
+    "id": 9,
+    "technology": "Python",
+    "question": "How do you get the number of elements in a list?",
+    "options": [
+      "count()",
+      "len()",
+      "size()",
+      "length()"
+    ],
+    "answer": "len()"
+  },
+  {
+    "id": 10,
+    "technology": "Python",
+    "question": "Which statement is used to handle exceptions?",
+    "options": [
+      "error",
+      "try/except",
+      "catch",
+      "throw"
+    ],
+    "answer": "try/except"
+  },
+  {
+    "id": 11,
+    "technology": "JavaScript",
+    "question": "What is 'typeof null' in JavaScript?",
+    "options": [
+      "null",
+      "object",
+      "undefined",
+      "number"
+    ],
+    "answer": "'object'"
+  },
+  {
+    "id": 12,
+    "technology": "JavaScript",
+    "question": "Which method converts a JSON string to an object?",
+    "options": [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.convert()",
+      "JSON.toObject()"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "id": 13,
+    "technology": "JavaScript",
+    "question": "What does '===' operator check?",
+    "options": [
+      "Value only",
+      "Type only",
+      "Value and type",
+      "None of these"
+    ],
+    "answer": "Value and type"
+  },
+  {
+    "id": 14,
+    "technology": "JavaScript",
+    "question": "How do you declare a variable in ES6?",
+    "options": [
+      "int",
+      "var",
+      "let",
+      "static"
+    ],
+    "answer": "let"
+  },
+  {
+    "id": 15,
+    "technology": "JavaScript",
+    "question": "What is event bubbling?",
+    "options": [
+      "Events move from target to window",
+      "Events move from window to target",
+      "Events move from root to inner element",
+      "None"
+    ],
+    "answer": "Events move from target to window"
+  },
+  {
+    "id": 16,
+    "technology": "JavaScript",
+    "question": "What keyword is used to create a constant in JS?",
+    "options": [
+      "let",
+      "var",
+      "const",
+      "define"
+    ],
+    "answer": "const"
+  },
+  {
+    "id": 17,
+    "technology": "JavaScript",
+    "question": "Which of the following is not a data type in JS?",
+    "options": [
+      "string",
+      "float",
+      "boolean",
+      "object"
+    ],
+    "answer": "float"
+  },
+  {
+    "id": 18,
+    "technology": "JavaScript",
+    "question": "How to write a comment in JS?",
+    "options": [
+      "#",
+      "//",
+      "<!--",
+      "**"
+    ],
+    "answer": "//"
+  },
+  {
+    "id": 19,
+    "technology": "JavaScript",
+    "question": "What are arrow functions introduced in?",
+    "options": [
+      "ES5",
+      "ES6",
+      "ES7",
+      "ES8"
+    ],
+    "answer": "ES6"
+  },
+  {
+    "id": 20,
+    "technology": "JavaScript",
+    "question": "Which company developed JavaScript?",
+    "options": [
+      "Netscape",
+      "Sun Microsystems",
+      "Oracle",
+      "Microsoft"
+    ],
+    "answer": "Netscape"
+  },
+  {
+    "id": 21,
+    "technology": "Java",
+    "question": "Which keyword is used for inheritance?",
+    "options": [
+      "implements",
+      "extends",
+      "inherit",
+      "inherits"
+    ],
+    "answer": "extends"
+  },
+  {
+    "id": 22,
+    "technology": "Java",
+    "question": "What is the size of int in Java?",
+    "options": [
+      "4 bytes",
+      "8 bytes",
+      "2 bytes",
+      "1 byte"
+    ],
+    "answer": "4 bytes"
+  },
+  {
+    "id": 23,
+    "technology": "Java",
+    "question": "Which method starts thread execution?",
+    "options": [
+      "start()",
+      "run()",
+      "begin()",
+      "execute()"
+    ],
+    "answer": "start()"
+  },
+  {
+    "id": 24,
+    "technology": "Java",
+    "question": "What is the parent class of all classes in Java?",
+    "options": [
+      "Class",
+      "Object",
+      "Root",
+      "Super"
+    ],
+    "answer": "Object"
+  },
+  {
+    "id": 25,
+    "technology": "Java",
+    "question": "Which of these is not a Java keyword?",
+    "options": [
+      "static",
+      "Boolean",
+      "void",
+      "private"
+    ],
+    "answer": "Boolean"
+  },
+  {
+    "id": 26,
+    "technology": "Java",
+    "question": "Which interface must be implemented by a Java class to support sorting?",
+    "options": [
+      "Serializable",
+      "Runnable",
+      "Comparable",
+      "Sortable"
+    ],
+    "answer": "Comparable"
+  },
+  {
+    "id": 27,
+    "technology": "Java",
+    "question": "What is the default value of a boolean variable?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "0"
+    ],
+    "answer": "false"
+  },
+  {
+    "id": 28,
+    "technology": "Java",
+    "question": "Which package contains the Random class?",
+    "options": [
+      "java.util",
+      "java.lang",
+      "java.random",
+      "java.io"
+    ],
+    "answer": "java.util"
+  },
+  {
+    "id": 29,
+    "technology": "Java",
+    "question": "What is the size of a byte in Java?",
+    "options": [
+      "2 bytes",
+      "1 byte",
+      "4 bytes",
+      "8 bytes"
+    ],
+    "answer": "1 byte"
+  },
+  {
+    "id": 30,
+    "technology": "Java",
+    "question": "Which keyword is used to prevent inheritance?",
+    "options": [
+      "static",
+      "final",
+      "constant",
+      "immutable"
+    ],
+    "answer": "final"
+  },
+  {
+    "id": 31,
+    "technology": "C#",
+    "question": "Which keyword is used to declare a variable in C#?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "int"
+    ],
+    "answer": "var"
+  },
+  {
+    "id": 32,
+    "technology": "C#",
+    "question": "Which method is the entry point of a C# program?",
+    "options": [
+      "start()",
+      "Main()",
+      "Init()",
+      "Run()"
+    ],
+    "answer": "Main()"
+  },
+  {
+    "id": 33,
+    "technology": "C#",
+    "question": "Which keyword is used to inherit a class?",
+    "options": [
+      "implements",
+      "inherits",
+      "extends",
+      ": (colon)"
+    ],
+    "answer": ": (colon)"
+  },
+  {
+    "id": 34,
+    "technology": "C#",
+    "question": "Which type supports multiple inheritance in C#?",
+    "options": [
+      "class",
+      "struct",
+      "interface",
+      "enum"
+    ],
+    "answer": "interface"
+  },
+  {
+    "id": 35,
+    "technology": "C#",
+    "question": "What is the default access modifier for members of a class?",
+    "options": [
+      "private",
+      "public",
+      "protected",
+      "internal"
+    ],
+    "answer": "private"
+  },
+  {
+    "id": 36,
+    "technology": "C#",
+    "question": "Which keyword is used to declare constants?",
+    "options": [
+      "const",
+      "final",
+      "static",
+      "readonly"
+    ],
+    "answer": "const"
+  },
+  {
+    "id": 37,
+    "technology": "C#",
+    "question": "Which operator is used for null-coalescing?",
+    "options": [
+      "??",
+      "??=",
+      ":",
+      "&&"
+    ],
+    "answer": "??"
+  },
+  {
+    "id": 38,
+    "technology": "C#",
+    "question": "Which namespace contains basic types like String, Int32?",
+    "options": [
+      "System.Collections",
+      "System",
+      "System.IO",
+      "System.Data"
+    ],
+    "answer": "System"
+  },
+  {
+    "id": 39,
+    "technology": "C#",
+    "question": "What is the correct syntax to define a property?",
+    "options": [
+      "get; set;",
+      "property;",
+      "prop;",
+      "value;"
+    ],
+    "answer": "get; set;"
+  },
+  {
+    "id": 40,
+    "technology": "C#",
+    "question": "What feature allows deferred execution in LINQ?",
+    "options": [
+      "IEnumerable",
+      "IQueryable",
+      "yield return",
+      "deferred keyword"
+    ],
+    "answer": "yield return"
+  },
+  {
+    "id": 41,
+    "technology": "C++",
+    "question": "Which operator is used to allocate memory dynamically?",
+    "options": [
+      "alloc",
+      "malloc",
+      "new",
+      "create"
+    ],
+    "answer": "new"
+  },
+  {
+    "id": 42,
+    "technology": "C++",
+    "question": "Which feature supports polymorphism?",
+    "options": [
+      "Inheritance",
+      "Virtual functions",
+      "Overloading",
+      "Templates"
+    ],
+    "answer": "Virtual functions"
+  },
+  {
+    "id": 43,
+    "technology": "C++",
+    "question": "What is the default access specifier for class members?",
+    "options": [
+      "private",
+      "public",
+      "protected",
+      "internal"
+    ],
+    "answer": "private"
+  },
+  {
+    "id": 44,
+    "technology": "C++",
+    "question": "Which of the following is not a C++ keyword?",
+    "options": [
+      "friend",
+      "virtual",
+      "extends",
+      "template"
+    ],
+    "answer": "extends"
+  },
+  {
+    "id": 45,
+    "technology": "C++",
+    "question": "What does STL stand for?",
+    "options": [
+      "Standard Template Library",
+      "Standard Type Library",
+      "Simple Template Library",
+      "System Template Library"
+    ],
+    "answer": "Standard Template Library"
+  },
+  {
+    "id": 46,
+    "technology": "C++",
+    "question": "Which operator is used for function overloading resolution?",
+    "options": [
+      "&&",
+      "::",
+      "*",
+      "->"
+    ],
+    "answer": "::"
+  },
+  {
+    "id": 47,
+    "technology": "C++",
+    "question": "What is RAII in C++?",
+    "options": [
+      "Resource Acquisition Is Initialization",
+      "Read And Initialize Immediately",
+      "Resource And Initialization Interface",
+      "None of these"
+    ],
+    "answer": "Resource Acquisition Is Initialization"
+  },
+  {
+    "id": 48,
+    "technology": "C++",
+    "question": "Which keyword is used to prevent method overriding?",
+    "options": [
+      "final",
+      "static",
+      "const",
+      "override"
+    ],
+    "answer": "final"
+  },
+  {
+    "id": 49,
+    "technology": "C++",
+    "question": "How do you declare a pointer variable?",
+    "options": [
+      "int ptr;",
+      "int* ptr;",
+      "ptr int;",
+      "pointer int;"
+    ],
+    "answer": "int* ptr;"
+  },
+  {
+    "id": 50,
+    "technology": "C++",
+    "question": "Which header provides standard I/O stream objects?",
+    "options": [
+      "<stdio.h>",
+      "<iostream>",
+      "<io.h>",
+      "<istream>"
+    ],
+    "answer": "<iostream>"
+  },
+  {
+    "id": 51,
+    "technology": "TypeScript",
+    "question": "What is TypeScript?",
+    "options": [
+      "A superset of JavaScript",
+      "A framework",
+      "A database",
+      "A styling language"
+    ],
+    "answer": "A superset of JavaScript"
+  },
+  {
+    "id": 52,
+    "technology": "TypeScript",
+    "question": "Which type system does TypeScript use?",
+    "options": [
+      "Dynamic typing",
+      "Weak typing",
+      "Strong typing",
+      "Duck typing"
+    ],
+    "answer": "Strong typing"
+  },
+  {
+    "id": 53,
+    "technology": "TypeScript",
+    "question": "How do you define an interface in TypeScript?",
+    "options": [
+      "interface InterfaceName {}",
+      "define InterfaceName {}",
+      "class InterfaceName {}",
+      "struct InterfaceName {}"
+    ],
+    "answer": "interface InterfaceName {}"
+  },
+  {
+    "id": 54,
+    "technology": "TypeScript",
+    "question": "Which of the following adds type information to JavaScript?",
+    "options": [
+      "JSDoc",
+      "TypeScript",
+      "Babel",
+      "ESLint"
+    ],
+    "answer": "TypeScript"
+  },
+  {
+    "id": 55,
+    "technology": "TypeScript",
+    "question": "What is the file extension for TypeScript files?",
+    "options": [
+      ".ts",
+      ".js",
+      ".tsx",
+      ".jsx"
+    ],
+    "answer": ".ts"
+  },
+  {
+    "id": 56,
+    "technology": "TypeScript",
+    "question": "How does TypeScript transpile code?",
+    "options": [
+      "Converts to JavaScript",
+      "Converts to bytecode",
+      "Converts to C#",
+      "Does not transpile"
+    ],
+    "answer": "Converts to JavaScript"
+  },
+  {
+    "id": 57,
+    "technology": "TypeScript",
+    "question": "Which keyword is used for type assertions?",
+    "options": [
+      "as",
+      "typeof",
+      "instanceof",
+      "is"
+    ],
+    "answer": "as"
+  },
+  {
+    "id": 58,
+    "technology": "TypeScript",
+    "question": "Which statement below is true?",
+    "options": [
+      "TypeScript supports interfaces",
+      "TypeScript only supports classes",
+      "TypeScript does not support types",
+      "TypeScript is unrelated to JavaScript"
+    ],
+    "answer": "TypeScript supports interfaces"
+  },
+  {
+    "id": 59,
+    "technology": "TypeScript",
+    "question": "How can you declare a variable with a type in TypeScript?",
+    "options": [
+      "let x : number",
+      "let x = number",
+      "let x = : number",
+      "let x( number )"
+    ],
+    "answer": "let x : number"
+  },
+  {
+    "id": 60,
+    "technology": "TypeScript",
+    "question": "Which command compiles TypeScript files?",
+    "options": [
+      "tsc",
+      "tscompile",
+      "tsrun",
+      "compile-ts"
+    ],
+    "answer": "tsc"
+  },
+  {
+    "id": 61,
+    "technology": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Markup Language",
+      "Hyper Text Marketing Language",
+      "Hyper Text Markup Leveler"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 62,
+    "technology": "HTML",
+    "question": "Which tag is used to insert a line break?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<newline>"
+    ],
+    "answer": "<br>"
+  },
+  {
+    "id": 63,
+    "technology": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<background>",
+      "<body>",
+      "<bgcolor>",
+      "<color>"
+    ],
+    "answer": "<body>"
+  },
+  {
+    "id": 64,
+    "technology": "HTML",
+    "question": "Which element is used to create a hyperlink?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 65,
+    "technology": "HTML",
+    "question": "Which attribute is used to specify an alternate text for an image?",
+    "options": [
+      "alt",
+      "src",
+      "title",
+      "longdesc"
+    ],
+    "answer": "alt"
+  },
+  {
+    "id": 66,
+    "technology": "HTML",
+    "question": "Which doctype declaration is correct for HTML5?",
+    "options": [
+      "<!DOCTYPE HTML>",
+      "<!DOCTYPE html5>",
+      "<!DOCTYPE HTML PUBLIC>",
+      "<!DOCTYPE html SYSTEM>"
+    ],
+    "answer": "<!DOCTYPE HTML>"
+  },
+  {
+    "id": 67,
+    "technology": "HTML",
+    "question": "Which element is used to define the title of a document?",
+    "options": [
+      "<title>",
+      "<head>",
+      "<header>",
+      "<meta>"
+    ],
+    "answer": "<title>"
+  },
+  {
+    "id": 68,
+    "technology": "HTML",
+    "question": "Which attribute is used to open a link in a new tab?",
+    "options": [
+      "target='_blank'",
+      "new_tab='true'",
+      "open='new'",
+      "blank='true'"
+    ],
+    "answer": "target='_blank'"
+  },
+  {
+    "id": 69,
+    "technology": "HTML",
+    "question": "What is the standard character encoding for HTML5?",
+    "options": [
+      "ASCII",
+      "UTF-16",
+      "UTF-8",
+      "ISO-8859-1"
+    ],
+    "answer": "UTF-8"
+  },
+  {
+    "id": 70,
+    "technology": "HTML",
+    "question": "Which element is used to embed a video in HTML?",
+    "options": [
+      "<media>",
+      "<movie>",
+      "<video>",
+      "<embed>"
+    ],
+    "answer": "<video>"
+  },
+  {
+    "id": 71,
+    "technology": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 72,
+    "technology": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "bgcolor",
+      "background-color",
+      "color",
+      "background"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "id": 73,
+    "technology": "CSS",
+    "question": "How do you make text bold in CSS?",
+    "options": [
+      "font-weight: bold;",
+      "text-weight: bold;",
+      "font-style: bold;",
+      "text-style: bold;"
+    ],
+    "answer": "font-weight: bold;"
+  },
+  {
+    "id": 74,
+    "technology": "CSS",
+    "question": "Which property controls the text size?",
+    "options": [
+      "font-style",
+      "font-size",
+      "text-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "id": 75,
+    "technology": "CSS",
+    "question": "How do you select an element with id 'header'?",
+    "options": [
+      ".header",
+      "#header",
+      "*header",
+      "header"
+    ],
+    "answer": "#header"
+  },
+  {
+    "id": 76,
+    "technology": "CSS",
+    "question": "Which attribute is used to add space inside the border of an element?",
+    "options": [
+      "margin",
+      "padding",
+      "spacing",
+      "border-spacing"
+    ],
+    "answer": "padding"
+  },
+  {
+    "id": 77,
+    "technology": "CSS",
+    "question": "How do you make a list that lists its items with squares?",
+    "options": [
+      "list-style-type: square;",
+      "list-type: square;",
+      "marker-type: square;",
+      "list-shape: square;"
+    ],
+    "answer": "list-style-type: square;"
+  },
+  {
+    "id": 78,
+    "technology": "CSS",
+    "question": "What is the default position value for an element?",
+    "options": [
+      "static",
+      "relative",
+      "absolute",
+      "fixed"
+    ],
+    "answer": "static"
+  },
+  {
+    "id": 79,
+    "technology": "CSS",
+    "question": "Which property is used to change the font?",
+    "options": [
+      "font-weight",
+      "font-style",
+      "font-family",
+      "text-font"
+    ],
+    "answer": "font-family"
+  },
+  {
+    "id": 80,
+    "technology": "CSS",
+    "question": "How can you make a link change color when hovered?",
+    "options": [
+      "a:hover { color: blue; }",
+      "a.onhover { color: blue; }",
+      "a.click { color: blue; }",
+      "a.hover { color: blue; }"
+    ],
+    "answer": "a:hover { color: blue; }"
+  },
+  {
+    "id": 81,
+    "technology": "MongoDB",
+    "question": "What type of database is MongoDB?",
+    "options": [
+      "Relational",
+      "NoSQL document-oriented",
+      "Graph database",
+      "Key-value store"
+    ],
+    "answer": "NoSQL document-oriented"
+  },
+  {
+    "id": 82,
+    "technology": "MongoDB",
+    "question": "Which data format does MongoDB use to store data?",
+    "options": [
+      "BSON",
+      "JSON",
+      "XML",
+      "CSV"
+    ],
+    "answer": "BSON"
+  },
+  {
+    "id": 83,
+    "technology": "MongoDB",
+    "question": "Which command inserts a document into a collection?",
+    "options": [
+      "db.collection.insertOne()",
+      "db.collection.add()",
+      "insert document",
+      "db.insert()"
+    ],
+    "answer": "db.collection.insertOne()"
+  },
+  {
+    "id": 84,
+    "technology": "MongoDB",
+    "question": "How do you update a document in MongoDB?",
+    "options": [
+      "update()",
+      "updateOne()",
+      "modify()",
+      "db.update()"
+    ],
+    "answer": "updateOne()"
+  },
+  {
+    "id": 85,
+    "technology": "MongoDB",
+    "question": "Which of the following is a valid MongoDB query operator?",
+    "options": [
+      "$eq",
+      "==",
+      "$is",
+      "$equals"
+    ],
+    "answer": "$eq"
+  },
+  {
+    "id": 86,
+    "technology": "MongoDB",
+    "question": "What command removes documents from a collection?",
+    "options": [
+      "deleteMany()",
+      "drop()",
+      "remove()",
+      "delete()"
+    ],
+    "answer": "deleteMany()"
+  },
+  {
+    "id": 87,
+    "technology": "MongoDB",
+    "question": "Which method fetches all documents from a collection?",
+    "options": [
+      "find()",
+      "get()",
+      "select()",
+      "retrieve()"
+    ],
+    "answer": "find()"
+  },
+  {
+    "id": 88,
+    "technology": "MongoDB",
+    "question": "Which command is used to create an index in MongoDB?",
+    "options": [
+      "createIndex()",
+      "addIndex()",
+      "newIndex()",
+      "indexCreate()"
+    ],
+    "answer": "createIndex()"
+  },
+  {
+    "id": 89,
+    "technology": "MongoDB",
+    "question": "How is data stored in MongoDB collections?",
+    "options": [
+      "Rows and columns",
+      "Documents",
+      "Formatted tables",
+      "Entries"
+    ],
+    "answer": "Documents"
+  },
+  {
+    "id": 90,
+    "technology": "MongoDB",
+    "question": "Which command is used to start the MongoDB shell?",
+    "options": [
+      "mongo",
+      "mongod",
+      "startmongo",
+      "dbo"
+    ],
+    "answer": "mongo"
+  },
+  {
+    "id": 91,
+    "technology": "C",
+    "question": "Who developed the C programming language?",
+    "options": [
+      "Dennis Ritchie",
+      "Bjarne Stroustrup",
+      "James Gosling",
+      "Guido van Rossum"
+    ],
+    "answer": "Dennis Ritchie"
+  },
+  {
+    "id": 92,
+    "technology": "C",
+    "question": "What is the correct way to declare a pointer in C?",
+    "options": [
+      "int *ptr;",
+      "int ptr*;",
+      "pointer int ptr;",
+      "ptr int*;"
+    ],
+    "answer": "int *ptr;"
+  },
+  {
+    "id": 93,
+    "technology": "C",
+    "question": "Which function is the entry point of a C program?",
+    "options": [
+      "start()",
+      "main()",
+      "init()",
+      "run()"
+    ],
+    "answer": "main()"
+  },
+  {
+    "id": 94,
+    "technology": "C",
+    "question": "Which header file is required for standard input/output functions?",
+    "options": [
+      "<stdlib.h>",
+      "<stdio.h>",
+      "<conio.h>",
+      "<iostream>"
+    ],
+    "answer": "<stdio.h>"
+  },
+  {
+    "id": 95,
+    "technology": "C",
+    "question": "Which operator is used to get the address of a variable?",
+    "options": [
+      "*",
+      "&",
+      "->",
+      "%"
+    ],
+    "answer": "&"
+  },
+  {
+    "id": 96,
+    "technology": "C",
+    "question": "What is the size of an int on most 32-bit systems?",
+    "options": [
+      "2 bytes",
+      "4 bytes",
+      "8 bytes",
+      "1 byte"
+    ],
+    "answer": "4 bytes"
+  },
+  {
+    "id": 97,
+    "technology": "C",
+    "question": "Which keyword is used to declare a constant variable?",
+    "options": [
+      "constant",
+      "const",
+      "var",
+      "immutable"
+    ],
+    "answer": "const"
+  },
+  {
+    "id": 98,
+    "technology": "C",
+    "question": "How do you write a single-line comment in C?",
+    "options": [
+      "#",
+      "//",
+      "<!--",
+      "**"
+    ],
+    "answer": "//"
+  },
+  {
+    "id": 99,
+    "technology": "C",
+    "question": "Which loop is guaranteed to execute at least once?",
+    "options": [
+      "for",
+      "while",
+      "do-while",
+      "foreach"
+    ],
+    "answer": "do-while"
+  },
+  {
+    "id": 100,
+    "technology": "C",
+    "question": "Which function is used to allocate memory dynamically?",
+    "options": [
+      "malloc()",
+      "alloc()",
+      "new",
+      "create()"
+    ],
+    "answer": "malloc()"
+  }
+]

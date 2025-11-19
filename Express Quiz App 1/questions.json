@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "technology": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "HyperText Markup Language",
+      "HyperText Machine Language",
+      "HighText Machine Language"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "technology": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyperlink>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 3,
+    "technology": "HTML",
+    "question": "Which attribute is used to define inline styles in HTML?",
+    "options": [
+      "class",
+      "style",
+      "font",
+      "styles"
+    ],
+    "answer": "style"
+  },
+  {
+    "id": 4,
+    "technology": "HTML",
+    "question": "What is the correct HTML element for inserting a line break?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<newline>"
+    ],
+    "answer": "<br>"
+  },
+  {
+    "id": 5,
+    "technology": "HTML",
+    "question": "Which tag is used to define an image in HTML?",
+    "options": [
+      "<picture>",
+      "<img>",
+      "<image>",
+      "<src>"
+    ],
+    "answer": "<img>"
+  },
+  {
+    "id": 6,
+    "technology": "HTML",
+    "question": "Which tag is used to create an ordered list?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<list>"
+    ],
+    "answer": "<ol>"
+  },
+  {
+    "id": 7,
+    "technology": "HTML",
+    "question": "Which of these is a valid HTML5 doctype declaration?",
+    "options": [
+      "<!DOCTYPE html>",
+      "<!HTML TYPE>",
+      "<DOCTYPE! HTML>",
+      "<html!doctype>"
+    ],
+    "answer": "<!DOCTYPE html>"
+  },
+  {
+    "id": 8,
+    "technology": "HTML",
+    "question": "Which element is used for the main title in HTML?",
+    "options": [
+      "<head>",
+      "<h1>",
+      "<title>",
+      "<main>"
+    ],
+    "answer": "<h1>"
+  },
+  {
+    "id": 9,
+    "technology": "HTML",
+    "question": "Which of the following is the correct way to comment in HTML?",
+    "options": [
+      "// comment",
+      "/* comment */",
+      "<!-- comment -->",
+      "# comment"
+    ],
+    "answer": "<!-- comment -->"
+  },
+  {
+    "id": 10,
+    "technology": "HTML",
+    "question": "Which tag is used to create a table row in HTML?",
+    "options": [
+      "<tr>",
+      "<td>",
+      "<table>",
+      "<th>"
+    ],
+    "answer": "<tr>"
+  },
+  {
+    "id": 11,
+    "technology": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 12,
+    "technology": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "backgroundColor",
+      "bgcolor",
+      "background-color"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "id": 13,
+    "technology": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "id": 14,
+    "technology": "CSS",
+    "question": "How do you make a list not display bullet points?",
+    "options": [
+      "list-style-type: none;",
+      "bullet: none;",
+      "list: none;",
+      "text-decoration: none;"
+    ],
+    "answer": "list-style-type: none;"
+  },
+  {
+    "id": 15,
+    "technology": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-style",
+      "font-family",
+      "text-font"
+    ],
+    "answer": "font-family"
+  },
+  {
+    "id": 16,
+    "technology": "CSS",
+    "question": "Which property sets the left margin of an element?",
+    "options": [
+      "margin-left",
+      "padding-left",
+      "left-margin",
+      "margin"
+    ],
+    "answer": "margin-left"
+  },
+  {
+    "id": 17,
+    "technology": "CSS",
+    "question": "To select all elements with class 'example', which CSS selector do you use?",
+    "options": [
+      "#example",
+      ".example",
+      "example",
+      "*example"
+    ],
+    "answer": ".example"
+  },
+  {
+    "id": 18,
+    "technology": "CSS",
+    "question": "Which CSS property is used for rounding the corners of an element's border box?",
+    "options": [
+      "border-style",
+      "border-radius",
+      "corner-radius",
+      "border-round"
+    ],
+    "answer": "border-radius"
+  },
+  {
+    "id": 19,
+    "technology": "CSS",
+    "question": "Which property determines the stacking order of elements?",
+    "options": [
+      "position",
+      "z-index",
+      "display",
+      "order"
+    ],
+    "answer": "z-index"
+  },
+  {
+    "id": 20,
+    "technology": "CSS",
+    "question": "Which value for the position property makes an element stay in the same place even when the page is scrolled?",
+    "options": [
+      "static",
+      "absolute",
+      "fixed",
+      "relative"
+    ],
+    "answer": "fixed"
+  },
+  {
+    "id": 21,
+    "technology": "JavaScript",
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": [
+      "var",
+      "int",
+      "let",
+      "Both var and let"
+    ],
+    "answer": "Both var and let"
+  },
+  {
+    "id": 22,
+    "technology": "JavaScript",
+    "question": "What is the correct syntax to write a function in JavaScript?",
+    "options": [
+      "function:myFunction()",
+      "function = myFunction()",
+      "function myFunction()",
+      "def myFunction()"
+    ],
+    "answer": "function myFunction()"
+  },
+  {
+    "id": 23,
+    "technology": "JavaScript",
+    "question": "Which built-in method is used to convert a string to uppercase?",
+    "options": [
+      "toUpperCase()",
+      "uppercase()",
+      "makeUpperCase()",
+      "changeCase(UPPER)"
+    ],
+    "answer": "toUpperCase()"
+  },
+  {
+    "id": 24,
+    "technology": "JavaScript",
+    "question": "Which symbol is used for single-line comments in JavaScript?",
+    "options": [
+      "//",
+      "/*",
+      "--",
+      "#"
+    ],
+    "answer": "//"
+  },
+  {
+    "id": 25,
+    "technology": "JavaScript",
+    "question": "What will `console.log(typeof null)` output?",
+    "options": [
+      "'null'",
+      "'undefined'",
+      "'object'",
+      "'number'"
+    ],
+    "answer": "'object'"
+  },
+  {
+    "id": 26,
+    "technology": "JavaScript",
+    "question": "Which method adds a new element to the end of an array?",
+    "options": [
+      "push()",
+      "pop()",
+      "shift()",
+      "add()"
+    ],
+    "answer": "push()"
+  },
+  {
+    "id": 27,
+    "technology": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msgBox('Hello World');",
+      "alert('Hello World');",
+      "msg('Hello World');",
+      "alertBox('Hello World');"
+    ],
+    "answer": "alert('Hello World');"
+  },
+  {
+    "id": 28,
+    "technology": "JavaScript",
+    "question": "What does the array method 'filter' do?",
+    "options": [
+      "Sorts array in order",
+      "Filters elements based on condition",
+      "Removes the last element",
+      "Returns the length of array"
+    ],
+    "answer": "Filters elements based on condition"
+  },
+  {
+    "id": 29,
+    "technology": "JavaScript",
+    "question": "How do you write a multi-line comment in JavaScript?",
+    "options": [
+      "// comment //",
+      "/* comment */",
+      "' comment '",
+      "# comment #"
+    ],
+    "answer": "/* comment */"
+  },
+  {
+    "id": 30,
+    "technology": "JavaScript",
+    "question": "Which operator is used to compare both value and type?",
+    "options": [
+      "==",
+      "===",
+      "=",
+      "!=="
+    ],
+    "answer": "==="
+  },
+  {
+    "id": 31,
+    "technology": "React",
+    "question": "What is a React component?",
+    "options": [
+      "A CSS style rule",
+      "A JavaScript function/class that renders UI",
+      "A database table",
+      "A graphical asset"
+    ],
+    "answer": "A JavaScript function/class that renders UI"
+  },
+  {
+    "id": 32,
+    "technology": "React",
+    "question": "Which syntax is used to embed JavaScript in JSX?",
+    "options": [
+      "[ ]",
+      "{{ }}",
+      "{ }",
+      "("
+    ],
+    "answer": "{ }"
+  },
+  {
+    "id": 33,
+    "technology": "React",
+    "question": "Which hook is used to manage state in a functional component?",
+    "options": [
+      "useState()",
+      "useEffect()",
+      "useContext()",
+      "useReducer()"
+    ],
+    "answer": "useState()"
+  },
+  {
+    "id": 34,
+    "technology": "React",
+    "question": "How are props passed in React?",
+    "options": [
+      "Via function returns",
+      "Via HTML attributes",
+      "Via render method",
+      "Via context only"
+    ],
+    "answer": "Via HTML attributes"
+  },
+  {
+    "id": 35,
+    "technology": "React",
+    "question": "What does the useEffect() hook do?",
+    "options": [
+      "Handles styling",
+      "Manages side effects",
+      "Initiates HTTP requests",
+      "Handles routing"
+    ],
+    "answer": "Manages side effects"
+  },
+  {
+    "id": 36,
+    "technology": "React",
+    "question": "Which command creates a new React project?",
+    "options": [
+      "npm run react",
+      "npx create-react-app",
+      "npm create-react",
+      "create-react npm"
+    ],
+    "answer": "npx create-react-app"
+  },
+  {
+    "id": 37,
+    "technology": "React",
+    "question": "React is primarily used for building what?",
+    "options": [
+      "Databases",
+      "User interfaces",
+      "Servers",
+      "APIs"
+    ],
+    "answer": "User interfaces"
+  },
+  {
+    "id": 38,
+    "technology": "React",
+    "question": "What does 'JSX' stand for?",
+    "options": [
+      "JavaScript XML",
+      "Java Syntax eXtension",
+      "Java Source eXtension",
+      "Just Simple XML"
+    ],
+    "answer": "JavaScript XML"
+  },
+  {
+    "id": 39,
+    "technology": "React",
+    "question": "How do you trigger a re-render in a functional React component?",
+    "options": [
+      "Update props or state",
+      "Re-import the component",
+      "Call render() manually",
+      "Switch user"
+    ],
+    "answer": "Update props or state"
+  },
+  {
+    "id": 40,
+    "technology": "React",
+    "question": "Which method is used to list items in React?",
+    "options": [
+      ".list()",
+      ".forEach()",
+      ".map()",
+      ".display()"
+    ],
+    "answer": ".map()"
+  },
+  {
+    "id": 41,
+    "technology": "Node.js",
+    "question": "Node.js is built on which JavaScript engine?",
+    "options": [
+      "SpiderMonkey",
+      "Chakra",
+      "V8",
+      "Rhino"
+    ],
+    "answer": "V8"
+  },
+  {
+    "id": 42,
+    "technology": "Node.js",
+    "question": "Which of these is a core module in Node.js?",
+    "options": [
+      "fs",
+      "react",
+      "axios",
+      "express"
+    ],
+    "answer": "fs"
+  },
+  {
+    "id": 43,
+    "technology": "Node.js",
+    "question": "What command runs a Node.js application?",
+    "options": [
+      "npm start",
+      "node app.js",
+      "run node app.js",
+      "start node.js"
+    ],
+    "answer": "node app.js"
+  },
+  {
+    "id": 44,
+    "technology": "Node.js",
+    "question": "Node.js is mainly used for building:",
+    "options": [
+      "Front-end applications",
+      "Back-end servers",
+      "Mobile apps",
+      "Operating systems"
+    ],
+    "answer": "Back-end servers"
+  },
+  {
+    "id": 45,
+    "technology": "Node.js",
+    "question": "Which method starts an HTTP server in Node.js?",
+    "options": [
+      "http.listen()",
+      "server.start()",
+      "http.createServer()",
+      "startServer()"
+    ],
+    "answer": "http.createServer()"
+  },
+  {
+    "id": 46,
+    "technology": "Node.js",
+    "question": "Which package manager is used by default with Node.js?",
+    "options": [
+      "pip",
+      "yarn",
+      "npm",
+      "composer"
+    ],
+    "answer": "npm"
+  },
+  {
+    "id": 47,
+    "technology": "Node.js",
+    "question": "Which file is used to store Node.js project metadata?",
+    "options": [
+      "package.json",
+      "node.config",
+      "metadata.js",
+      "project.json"
+    ],
+    "answer": "package.json"
+  },
+  {
+    "id": 48,
+    "technology": "Node.js",
+    "question": "How do you import a module in Node.js?",
+    "options": [
+      "import = require('module')",
+      "require('module')",
+      "import 'module'",
+      "get('module')"
+    ],
+    "answer": "require('module')"
+  },
+  {
+    "id": 49,
+    "technology": "Node.js",
+    "question": "Which extension is commonly used for Node.js modules?",
+    "options": [
+      ".node",
+      ".js",
+      ".jsx",
+      ".mjs"
+    ],
+    "answer": ".js"
+  },
+  {
+    "id": 50,
+    "technology": "Node.js",
+    "question": "Node.js is:",
+    "options": [
+      "Single-threaded",
+      "Multi-threaded",
+      "Not event-driven",
+      "Browser-only"
+    ],
+    "answer": "Single-threaded"
+  },
+  {
+    "id": 51,
+    "technology": "Python",
+    "question": "What keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "define",
+      "function",
+      "def"
+    ],
+    "answer": "def"
+  },
+  {
+    "id": 52,
+    "technology": "Python",
+    "question": "What is used to indicate a block of code in Python?",
+    "options": [
+      "Curly braces",
+      "Parentheses",
+      "Indentation",
+      "Quotation marks"
+    ],
+    "answer": "Indentation"
+  },
+  {
+    "id": 53,
+    "technology": "Python",
+    "question": "How do you insert comments in Python?",
+    "options": [
+      "// comment",
+      "# comment",
+      "/* comment */",
+      "<!-- comment -->"
+    ],
+    "answer": "# comment"
+  },
+  {
+    "id": 54,
+    "technology": "Python",
+    "question": "Which function is used to get user input in Python 3?",
+    "options": [
+      "input()",
+      "scan()",
+      "read()",
+      "cin()"
+    ],
+    "answer": "input()"
+  },
+  {
+    "id": 55,
+    "technology": "Python",
+    "question": "Which built-in type is immutable?",
+    "options": [
+      "list",
+      "set",
+      "dict",
+      "tuple"
+    ],
+    "answer": "tuple"
+  },
+  {
+    "id": 56,
+    "technology": "Python",
+    "question": "How do you start a for loop in Python?",
+    "options": [
+      "for (i = 0; i < 10; i++)",
+      "for i in range(10):",
+      "foreach i in range(10)",
+      "for i to 10"
+    ],
+    "answer": "for i in range(10):"
+  },
+  {
+    "id": 57,
+    "technology": "Python",
+    "question": "Which statement is used to handle exceptions?",
+    "options": [
+      "try/except",
+      "catch/except",
+      "try/catch",
+      "do/except"
+    ],
+    "answer": "try/except"
+  },
+  {
+    "id": 58,
+    "technology": "Python",
+    "question": "Which module in Python is used for regular expressions?",
+    "options": [
+      "pyregex",
+      "regexp",
+      "re",
+      "regex"
+    ],
+    "answer": "re"
+  },
+  {
+    "id": 59,
+    "technology": "Python",
+    "question": "How do you define a list in Python?",
+    "options": [
+      "[1, 2, 3]",
+      "{1, 2, 3}",
+      "(1, 2, 3)",
+      "<1, 2, 3>"
+    ],
+    "answer": "[1, 2, 3]"
+  },
+  {
+    "id": 60,
+    "technology": "Python",
+    "question": "What will `print(type(5/2))` output in Python 3?",
+    "options": [
+      "<class 'int'>",
+      "<class 'str'>",
+      "<class 'float'>",
+      "<class 'double'>"
+    ],
+    "answer": "<class 'float'>"
+  },
+  {
+    "id": 61,
+    "technology": "SQL",
+    "question": "Which SQL clause is used to filter results?",
+    "options": [
+      "ORDER BY",
+      "GROUP BY",
+      "WHERE",
+      "SELECT"
+    ],
+    "answer": "WHERE"
+  },
+  {
+    "id": 62,
+    "technology": "SQL",
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query Language",
+      "Server Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 63,
+    "technology": "SQL",
+    "question": "Which SQL statement is used to extract data from a database?",
+    "options": [
+      "GET",
+      "EXTRACT",
+      "SELECT",
+      "OPEN"
+    ],
+    "answer": "SELECT"
+  },
+  {
+    "id": 64,
+    "technology": "SQL",
+    "question": "Which command is used to remove all records from a table?",
+    "options": [
+      "DELETE",
+      "TRUNCATE",
+      "DROP",
+      "REMOVE"
+    ],
+    "answer": "TRUNCATE"
+  },
+  {
+    "id": 65,
+    "technology": "SQL",
+    "question": "Which SQL keyword is used to sort the result-set?",
+    "options": [
+      "SORT",
+      "ORDER BY",
+      "GROUP BY",
+      "ARRANGE BY"
+    ],
+    "answer": "ORDER BY"
+  },
+  {
+    "id": 66,
+    "technology": "SQL",
+    "question": "What is the default sort order of the ORDER BY clause?",
+    "options": [
+      "Descending",
+      "Ascending",
+      "Random",
+      "No order"
+    ],
+    "answer": "Ascending"
+  },
+  {
+    "id": 67,
+    "technology": "SQL",
+    "question": "Which keyword is used to prevent duplicate records?",
+    "options": [
+      "UNIQUE",
+      "DISTINCT",
+      "NOT NULL",
+      "NO DUPLICATE"
+    ],
+    "answer": "DISTINCT"
+  },
+  {
+    "id": 68,
+    "technology": "SQL",
+    "question": "Which join returns all records from the left table and the matched records from the right table?",
+    "options": [
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "INNER JOIN",
+      "FULL JOIN"
+    ],
+    "answer": "LEFT JOIN"
+  },
+  {
+    "id": 69,
+    "technology": "SQL",
+    "question": "Which SQL statement is used to update data in a table?",
+    "options": [
+      "SAVE",
+      "MODIFY",
+      "UPDATE",
+      "SET"
+    ],
+    "answer": "UPDATE"
+  },
+  {
+    "id": 70,
+    "technology": "SQL",
+    "question": "What symbol is used before a parameter in SQL Server stored procedure?",
+    "options": [
+      "$",
+      "*",
+      "@",
+      "#"
+    ],
+    "answer": "@"
+  },
+  {
+    "id": 71,
+    "technology": "Git",
+    "question": "Which command is used to upload local repository content to a remote repository?",
+    "options": [
+      "git pull",
+      "git push",
+      "git fork",
+      "git upload"
+    ],
+    "answer": "git push"
+  },
+  {
+    "id": 72,
+    "technology": "Git",
+    "question": "What does 'git init' do?",
+    "options": [
+      "Initializes a new Git repository",
+      "Starts Git GUI",
+      "Updates remote",
+      "Creates a Git clone"
+    ],
+    "answer": "Initializes a new Git repository"
+  },
+  {
+    "id": 73,
+    "technology": "Git",
+    "question": "Which command is used to preview staged changes?",
+    "options": [
+      "git status",
+      "git diff",
+      "git log",
+      "git show"
+    ],
+    "answer": "git diff"
+  },
+  {
+    "id": 74,
+    "technology": "Git",
+    "question": "What is a 'commit' in Git?",
+    "options": [
+      "A save point in project history",
+      "A Git branch",
+      "A remote repository",
+      "Merging changes"
+    ],
+    "answer": "A save point in project history"
+  },
+  {
+    "id": 75,
+    "technology": "Git",
+    "question": "Which file keeps a list of files/folders not tracked by Git?",
+    "options": [
+      "README.md",
+      ".gitignore",
+      ".npmignore",
+      "LICENSE"
+    ],
+    "answer": ".gitignore"
+  },
+  {
+    "id": 76,
+    "technology": "Git",
+    "question": "Which command clones a repository?",
+    "options": [
+      "git fork",
+      "git clone",
+      "git copy",
+      "git fetch"
+    ],
+    "answer": "git clone"
+  },
+  {
+    "id": 77,
+    "technology": "Git",
+    "question": "How do you check which branch you are currently working on?",
+    "options": [
+      "git status",
+      "git branch",
+      "git current",
+      "git show"
+    ],
+    "answer": "git branch"
+  },
+  {
+    "id": 78,
+    "technology": "Git",
+    "question": "What does 'git merge' do?",
+    "options": [
+      "Deletes a branch",
+      "Combines branches",
+      "Saves a file",
+      "Creates a new repo"
+    ],
+    "answer": "Combines branches"
+  },
+  {
+    "id": 79,
+    "technology": "Git",
+    "question": "Which command fetches from the remote and merges?",
+    "options": [
+      "git clone",
+      "git pull",
+      "git fetch",
+      "git push"
+    ],
+    "answer": "git pull"
+  },
+  {
+    "id": 80,
+    "technology": "Git",
+    "question": "How do you view commit history?",
+    "options": [
+      "git history",
+      "git log",
+      "git commits",
+      "git show"
+    ],
+    "answer": "git log"
+  },
+  {
+    "id": 81,
+    "technology": "Bootstrap",
+    "question": "Which class provides a responsive fixed width container in Bootstrap?",
+    "options": [
+      ".container",
+      ".container-fluid",
+      ".row",
+      ".box"
+    ],
+    "answer": ".container"
+  },
+  {
+    "id": 82,
+    "technology": "Bootstrap",
+    "question": "Which class is used for a button with primary color in Bootstrap?",
+    "options": [
+      "btn-main",
+      "btn-primary",
+      "button-primary",
+      "btn-blue"
+    ],
+    "answer": "btn-primary"
+  },
+  {
+    "id": 83,
+    "technology": "Bootstrap",
+    "question": "Bootstrap is primarily a:",
+    "options": [
+      "JavaScript framework",
+      "CSS framework",
+      "Database tool",
+      "Server"
+    ],
+    "answer": "CSS framework"
+  },
+  {
+    "id": 84,
+    "technology": "Bootstrap",
+    "question": "Which class aligns text to the right?",
+    "options": [
+      "text-left",
+      "text-right",
+      "text-end",
+      "text-align-right"
+    ],
+    "answer": "text-end"
+  },
+  {
+    "id": 85,
+    "technology": "Bootstrap",
+    "question": "Which class adds padding to all sides?",
+    "options": [
+      "p-3",
+      "pt-3",
+      "px-3",
+      "py-3"
+    ],
+    "answer": "p-3"
+  },
+  {
+    "id": 86,
+    "technology": "Bootstrap",
+    "question": "Which utility class applies a margin at the bottom?",
+    "options": [
+      "mb-3",
+      "mt-3",
+      "me-3",
+      "mx-3"
+    ],
+    "answer": "mb-3"
+  },
+  {
+    "id": 87,
+    "technology": "Bootstrap",
+    "question": "Which class creates a row for the grid?",
+    "options": [
+      ".row",
+      ".col",
+      ".container",
+      ".grid-row"
+    ],
+    "answer": ".row"
+  },
+  {
+    "id": 88,
+    "technology": "Bootstrap",
+    "question": "Which Bootstrap version introduced flex utilities?",
+    "options": [
+      "v2",
+      "v3",
+      "v4",
+      "v5"
+    ],
+    "answer": "v4"
+  },
+  {
+    "id": 89,
+    "technology": "Bootstrap",
+    "question": "Which class makes an image responsive?",
+    "options": [
+      "img-responsive",
+      "img-fluid",
+      "image-fluid",
+      "img-res"
+    ],
+    "answer": "img-fluid"
+  },
+  {
+    "id": 90,
+    "technology": "Bootstrap",
+    "question": "Which class is used for a success alert?",
+    "options": [
+      "alert-blue",
+      "alert-green",
+      "alert-success",
+      "alert-primary"
+    ],
+    "answer": "alert-success"
+  },
+  {
+    "id": 91,
+    "technology": "TypeScript",
+    "question": "Which of the following is not a TypeScript feature?",
+    "options": [
+      "Static Typing",
+      "Compilation to JavaScript",
+      "Automatic memory management",
+      "Class-based OOP"
+    ],
+    "answer": "Automatic memory management"
+  },
+  {
+    "id": 92,
+    "technology": "TypeScript",
+    "question": "What file extension is used for TypeScript files?",
+    "options": [
+      ".js",
+      ".ts",
+      ".jsx",
+      ".tsx"
+    ],
+    "answer": ".ts"
+  },
+  {
+    "id": 93,
+    "technology": "TypeScript",
+    "question": "Which keyword is used for defining interfaces in TypeScript?",
+    "options": [
+      "interface",
+      "type",
+      "implements",
+      "class"
+    ],
+    "answer": "interface"
+  },
+  {
+    "id": 94,
+    "technology": "TypeScript",
+    "question": "TypeScript is a superset of which language?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C#"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 95,
+    "technology": "TypeScript",
+    "question": "Which tool is required to compile TypeScript?",
+    "options": [
+      "tsc",
+      "babel",
+      "webpack",
+      "npm"
+    ],
+    "answer": "tsc"
+  },
+  {
+    "id": 96,
+    "technology": "TypeScript",
+    "question": "Which is a valid way to define a variable in TypeScript?",
+    "options": [
+      "let count: number = 10;",
+      "var count = number 10;",
+      "count = 10 as number;",
+      "number count = 10;"
+    ],
+    "answer": "let count: number = 10;"
+  },
+  {
+    "id": 97,
+    "technology": "TypeScript",
+    "question": "How do you explicitly tell TypeScript that a value could be string or number?",
+    "options": [
+      "string|number",
+      "string or number",
+      "string/number",
+      "string && number"
+    ],
+    "answer": "string|number"
+  },
+  {
+    "id": 98,
+    "technology": "TypeScript",
+    "question": "What is type inference in TypeScript?",
+    "options": [
+      "Compiler deduces types automatically",
+      "Type errors are ignored",
+      "Manually writing types",
+      "Overriding types"
+    ],
+    "answer": "Compiler deduces types automatically"
+  },
+  {
+    "id": 99,
+    "technology": "TypeScript",
+    "question": "Which flag helps TypeScript to check for errors strictly?",
+    "options": [
+      "--strict",
+      "--check",
+      "--force",
+      "--error"
+    ],
+    "answer": "--strict"
+  },
+  {
+    "id": 100,
+    "technology": "TypeScript",
+    "question": "Which package is used to run TypeScript code directly in Node.js?",
+    "options": [
+      "ts-node",
+      "node-ts",
+      "tsrun",
+      "nodeType"
+    ],
+    "answer": "ts-node"
+  }
+]

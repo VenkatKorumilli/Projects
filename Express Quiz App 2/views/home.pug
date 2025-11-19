@@ -1,0 +1,49 @@
+doctype html
+html
+  head
+    title Edupoly
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1, shrink-to-fit=no")
+    // Bootstrap CSS CDN
+    link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css")
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  body
+    // Navbar Start
+    nav.navbar.d-flex.navbar-expand-lg.navbar-dark.bg-primary.justify-content-between.p-2
+        img.img-fluid(src="https://edupolyoldsite.vercel.app/common/assets/edupoly-logo-dark.png",width="150px")
+        button.navbar-toggler(type="button", data-bs-toggle="collapse", data-bs-target="#navbarNavAltMarkup", aria-controls="navbarNavAltMarkup", aria-expanded="false", aria-label="Toggle navigation")
+          span.navbar-toggler-icon
+        .collapse.navbar-collapse#navbarNavAltMarkup
+        div  
+          .navbar-nav.gap-1
+            a.nav-link.active.fs-5(aria-current="page", href="/home") Home
+            a.nav-link.fs-5(href="") Quiz
+       
+        h4.text-white.mb-0 Hi, #{user.username.toUpperCase()}
+        a(href="/logout").btn.btn-danger.ms-2 Logout
+    // Navbar End
+
+    // Homepage Content
+    .container.mt-5.mb-5
+      h1.text-center Welcome to Edupoly!
+      h2 Technologies
+        
+      div.d-flex.justify-content-between.m-4.flex-wrap
+          each t in techs
+            a(href=`/getQuestionByTechnologies/${t}`).text-decoration-none.card.fs-4.m-4.p-4.w-25.text-primary.text-center.btn.btn-outline-info.border-3 #{t}
+
+    // Footer Start
+    footer.bg-secondary-subtle.text-dark.fixed-bottom.text-center
+        div
+        p.mb-2 &copy; Edupoly. All rights reserved.
+        p.text-center
+          | Follow us on:
+          a.text-dark.mx-2.text-decoration-none(href="https://www.facebook.com/edupoly83/") Facebook <i class="bi bi-facebook"></i>
+          | |
+          a.text-dark.mx-2.text-decoration-none(href="#") Twitter <i class="bi bi-twitter-x"></i>
+          | |
+          a.text-dark.mx-2.text-decoration-none(href="https://www.instagram.com/edu.poly/?hl=en") Instagram <i class="bi bi-instagram"></i>  
+    // Footer End
+
+    // Bootstrap JS Bundle
+    script(src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js")
