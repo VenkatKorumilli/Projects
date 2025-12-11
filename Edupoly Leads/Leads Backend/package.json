@@ -1,6 +1,9 @@
 {
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "dependencies": {
     "body-parser": "^2.2.0",
